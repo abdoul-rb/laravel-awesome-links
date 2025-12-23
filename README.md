@@ -25,6 +25,7 @@ Uniquement des **liens propres et organisés**, classés par catégories, pour a
 - [SaaS](links/saas.md)
 - [Ecosystem](links/ecosystem.md)
 - [Code Quality](code-quality.md)
+- [Developer Career](developer-career.md)
 
 ---
 
