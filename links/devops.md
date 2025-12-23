@@ -22,3 +22,8 @@ Cette section : Mise en production, Configuration serveur (Ubuntu VPS), Nginx, D
 
 - **Zero Deployment Laravel Without VPS: Automatic Deployment Straight from GitHub** — *Medium*  
   🔗 https://medium.com/@developerawam/zero-deployment-laravel-without-vps-automatic-deployment-straight-from-github-d13130d62e81 by Awam
+
+- **Laravel on VPS Series — Part 1: Preparing Your VPS for Laravel** — *Medium*  
+  🔗 https://codermanjeet.medium.com/laravel-on-vps-series-part-1-preparing-your-vps-for-laravel-aedc7ae7f222 by Manjeet
+
+
