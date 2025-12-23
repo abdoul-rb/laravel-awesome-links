@@ -16,6 +16,6 @@ service container, providers, pipelines, facades, events, queues, etc.
 - **Service or Controller? 7 Rules that helps me to decide when to use service in Laravel** — *Medium*  
   🔗 https://codermanjeet.medium.com/service-or-controller-7-rules-that-helps-me-to-decide-when-to-use-service-in-laravel-c2fa58bfb565 by Manjeet
 
-- **  🔗 https://blog.saaskit.dev/laravel-service-container-explained** — *Medium*  
+- **Deep Dive: Laravel’s Service Container & Bootstrapping Lifecycle** — *Medium*  
   🔗 https://medium.com/@ilyaskazi/deep-dive-laravels-service-container-bootstrapping-lifecycle-f811e886af09 by Ilyas Kazi
 ---
