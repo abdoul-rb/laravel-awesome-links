@@ -14,3 +14,8 @@ Cette section : Mise en production, Configuration serveur (Ubuntu VPS), Nginx, D
   🔗 https://medium.com/...
 
 ---
+
+## Prod
+
+- **9 Things You Need to Do Before Launching Laravel to Production** — *Medium*  
+  🔗 https://medium.com/@developerawam/9-things-you-need-to-do-before-launching-laravel-to-production-9ffbd0b2c0b3 by Awam
