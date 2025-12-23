@@ -6,6 +6,5 @@ analytics, conformité, scalabilité et outils tiers indispensables.
 
 ## 🚀 Product & Business
 
-- **Product Launch Checklist** - *SaasKit*
-  🔗 https://saasykit.com/blog/product-launch-checklist
-  By Anas
+- **Product Launch Checklist** — *SaaSKit*  
+  🔗  https://saasykit.com/blog/product-launch-checklist By Anas
