@@ -7,3 +7,6 @@ Cette section regroupe les articles sur la lisibilité, la maintenabilité et le
 - **The Readability Way** — Écrivez du code que les humains peuvent comprendre
 🔗 https://php-the-readability-way.fr By Ye Myint Soe
 
+- **The Readability Way** —  Écrivez du code que les humains peuvent comprendre
+  🔗 https://php-the-readability-way.fr By Ye Myint Soe
+
