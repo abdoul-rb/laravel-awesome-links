@@ -10,7 +10,9 @@ service container, providers, pipelines, facades, events, queues, etc.
 - **Laravel Service Container Explained** — *SaaSKit*  
   🔗 https://blog.saaskit.dev/laravel-service-container-explained
 
-- **Understanding Laravel's IoC Container** — *Medium*  
-  🔗 https://medium.com/...
+- **Auth::user() - How Laravel Resolves the Authenticated User** — *NeedLaravelSite*  
+  🔗 https://needlaravelsite.com/blog/authuser-how-laravel-resolves-the-authenticated-user
+  By **Muhammad Waqas**
+  
 
 ---
