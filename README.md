@@ -27,6 +27,12 @@ Uniquement des **liens propres et organisés**, classés par catégories, pour a
 - [Code Quality](code-quality.md)
 - [Developer Career](developer-career.md)
 
+--- 
+
+## Autres
+
+- [AI Tools](links/ai-tools.md)
+
 ---
 
 ## ⭐ Best Of
